@@ -33,7 +33,7 @@ Future<List<Article>> getArticleByTitle(String title) async {
       );
     }
   } on FormatException {
-    // TODO: log
+    
     rethrow;
   } finally {
     client.close();

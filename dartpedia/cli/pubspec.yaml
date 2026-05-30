@@ -11,9 +11,14 @@ environment:
 # Add regular dependencies here.
 dependencies:
   http: ^1.4.0
+  path: ^1.9.0
+  
   command_runner:
     path: ../command_runner # Points to your local command_runner package
-  path: ^1.9.0
+    
+  wikipedia:
+    path: ../wikipedia
+  logging: ^1.2.0
 
 dev_dependencies:
   lints: ^6.0.0

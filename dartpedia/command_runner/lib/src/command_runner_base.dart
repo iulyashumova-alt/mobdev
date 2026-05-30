@@ -42,7 +42,7 @@ class CommandRunner {
 
 
   void addCommand(Command command) {
-    // TODO: handle error (Commands can't have names that conflict)
+    
     _commands[command.name] = command;
     command.runner = this;
   }

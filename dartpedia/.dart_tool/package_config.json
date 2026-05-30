@@ -299,7 +299,7 @@
       "name": "_",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.8"
+      "languageVersion": "3.12"
     },
     {
       "name": "cli",
@@ -322,7 +322,7 @@
   ],
   "generator": "pub",
   "generatorVersion": "3.12.0",
-  "flutterRoot": "file:///C:/Programs%202/flutter",
+  "flutterRoot": "file:///C:/Users/%D0%AE%D0%BB%D0%B8%D1%8F/Downloads/flutter_windows_3.44.0-stable/flutter",
   "flutterVersion": "3.44.0",
   "pubCache": "file:///C:/Users/%D0%AE%D0%BB%D0%B8%D1%8F/AppData/Local/Pub/Cache"
 }
